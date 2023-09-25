@@ -50,4 +50,6 @@ Step 02: Install nodemon for realtime output application
 Step 03: Now create app.js file
 Step 04: Now create routes folder and create files for route folder to write get and post request. and also Controller folder
 
+Note: This code will run when we use event listener and fetch method to get and post API and the software we use POSTMAN
+
 </p>

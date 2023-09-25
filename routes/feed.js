@@ -5,4 +5,7 @@ const router = express.Router()
 
 router.get('/posts',feedController.getPosts)
 
-exports.router = router
+// POST /feed/post
+router.post('/post', feedController.createPost);
+
+module.exports = router
